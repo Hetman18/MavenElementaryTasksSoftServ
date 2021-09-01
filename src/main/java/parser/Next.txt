@@ -1,0 +1,8 @@
+Не жалела мама мыла.
+Мама Милу мылом мыла.
+Мила мыла не любила,
+Мыло Мила уронила.
+
+//file_parser2222/src/Text222.txt
+
+//D:\JavaGit\SoftServJavaTasksMaven
